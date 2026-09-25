@@ -18,7 +18,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe gui.py
 ```
 
-Si las dependencias ya están instaladas en tu Python, podés ejecutar `python gui.py` o abrir `INICIAR.cmd` con doble clic. El lanzador no instala nada; muestra instrucciones si falta alguna dependencia.
+Si las dependencias ya están instaladas en tu Python, podés ejecutar `python gui.py` o abrir `INICIAR.cmd` con doble click. El lanzador no instala nada; muestra instrucciones si falta alguna dependencia.
 
 ## Cómo usarlo
 
